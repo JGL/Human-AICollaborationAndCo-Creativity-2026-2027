@@ -14,7 +14,7 @@ For more information about the lectures, workshops and discussions, please see t
   - Tuesday afternoon: 1330-1730, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
     - Block 2: Creative Making: Human–AI Collaboration and Co-Creativity
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of the Diploma in Apple Development.**_
-- [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=85897) TBC!
+- [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=91044)
 - [Lecture and Workshop slides](https://jgl.github.io/Human-AICollaborationAndCo-Creativity-2026-2027/)
 - Please see the [course wiki for all non-lecture notes, list of people on the course and other resources](https://www.github.com/jgl/Human-AICollaborationAndCo-Creativity-2026-2027//wiki).
 - Please email CCI Undergraduate Programme Admin for help with any administrative matters such as ID access, finance, timetable issues, etc. Their email is [cci.ug@arts.ac.uk](mailto:cci.ug@arts.ac.uk).
