@@ -1,4 +1,4 @@
-# Human-AICollaborationAndCo-Creativity-2026-2027
+# Human–AI Collaboration and Co-Creativity 2026/2027
 
 Lecture slides, wiki and examples from the Creative Making: Human–AI Collaboration and Co-Creativity unit of Block 2, Year 2 of the Creative Computing Institute's BSc in Creative Computing.
 
